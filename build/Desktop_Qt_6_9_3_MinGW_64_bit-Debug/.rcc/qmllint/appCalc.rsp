@@ -1,0 +1,14 @@
+--bare
+-I
+C:/Users/Moris/Documents/Calc/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug
+-I
+C:/Qt/6.9.3/mingw_64/qml
+--resource
+C:/Users/Moris/Documents/Calc/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/rcc/qmake_Calc.qrc
+--resource
+C:/Users/Moris/Documents/Calc/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/rcc/appCalc_raw_qml_0.qrc
+--resource
+C:/Users/Moris/Documents/Calc/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/rcc/appCalc_raw_qml_0_extra_qmldirs.qrc
+C:/Users/Moris/Documents/Calc/Main.qml
+C:/Users/Moris/Documents/Calc/CalculatorButton.qml
+C:/Users/Moris/Documents/Calc/content/calculator.js

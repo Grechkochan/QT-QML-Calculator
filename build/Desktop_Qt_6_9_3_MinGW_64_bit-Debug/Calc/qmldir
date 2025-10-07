@@ -1,0 +1,7 @@
+module Calc
+typeinfo appCalc.qmltypes
+prefer :/qt/qml/Calc/
+Main 1.0 Main.qml
+CalculatorButton 1.0 CalculatorButton.qml
+depends QtQuick
+

@@ -1,0 +1,15 @@
+-rootPath
+C:/Users/Moris/Documents/Calc
+-cmake-output
+-output-file
+C:/Users/Moris/Documents/Calc/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/qml_imports/appCalc_conf.cmake
+-importPath
+C:/Users/Moris/Documents/Calc/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/Calc
+-importPath
+C:/Users/Moris/Documents/Calc/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.3/mingw_64/qml
+-qrcFiles
+C:/Users/Moris/Documents/Calc/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/rcc/qmake_Calc.qrc
+C:/Users/Moris/Documents/Calc/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/rcc/appCalc_raw_qml_0.qrc
+C:/Users/Moris/Documents/Calc/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/rcc/appCalc_raw_qml_0_extra_qmldirs.qrc

@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/Calc/">
+    <file alias="Main.qml">C:/Users/Moris/Documents/Calc/Main.qml</file>
+    <file alias="CalculatorButton.qml">C:/Users/Moris/Documents/Calc/CalculatorButton.qml</file>
+    <file alias="content/calculator.js">C:/Users/Moris/Documents/Calc/content/calculator.js</file>
+    <file alias="resources.qrc">C:/Users/Moris/Documents/Calc/resources.qrc</file>
+  </qresource>
+</RCC>
+

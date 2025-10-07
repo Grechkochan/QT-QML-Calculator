@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-fa34a8c7a48139453460.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Calc",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-3e49fc8c2ba21b7ab536.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-1a70ac63f09321a8c7ec.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-00db04c9217c7a09f13c.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-0385a3ec2e32a7930331.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-6c6c577043eb83928a68.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCalc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCalc-Debug-18d2d92a28ac44eabb0e.json",
+					"name" : "appCalc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCalc_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCalc_autogen-Debug-c0c6f7e33d271531a3e0.json",
+					"name" : "appCalc_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCalc_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCalc_autogen_timestamp_deps-Debug-98bea0c520f62b095c7d.json",
+					"name" : "appCalc_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCalc_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCalc_copy_qml-Debug-b9d51ed2f10d92b9e174.json",
+					"name" : "appCalc_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCalc_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCalc_copy_res-Debug-b32acde3b104f5b040b3.json",
+					"name" : "appCalc_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCalc_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCalc_qmlimportscan-Debug-ae21ad87839d1c0d80d4.json",
+					"name" : "appCalc_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCalc_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCalc_qmllint-Debug-bb6973e9a57593a21b33.json",
+					"name" : "appCalc_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCalc_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCalc_qmllint_json-Debug-52ee42ea98ebdd9b3b3a.json",
+					"name" : "appCalc_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCalc_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCalc_qmllint_module-Debug-24bf75e8b67a97bb9cee.json",
+					"name" : "appCalc_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appCalc_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appCalc_qmltyperegistration-Debug-a35b7b6e1bdb1d4bdb65.json",
+					"name" : "appCalc_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appCalc_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appCalc_aotstats_target-Debug-a95eb56811c70663c8e8.json",
+					"name" : "module_appCalc_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Moris/Documents/Calc/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Moris/Documents/Calc"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

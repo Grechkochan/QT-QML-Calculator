@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Calc">C:/Users/Moris/Documents/Calc/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/Calc</file>
+
+  </qresource>
+</RCC>
